@@ -1,0 +1,8 @@
+#DIRS += ['chrome']
+
+# EXTRA_COMPONENTS installs components written JavaScript to
+# dist/bin/components
+EXTRA_COMPONENTS += [
+    'nsPouch.js',
+    'nsPouch.manifest'
+]

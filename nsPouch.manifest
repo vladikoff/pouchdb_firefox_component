@@ -1,0 +1,4 @@
+resource pouchdb modules/
+
+component d647ff9b-ac4c-4d0e-8fbd-484765be5550 nsPouch.js
+contract @pouchdb.com/component;1 d647ff9b-ac4c-4d0e-8fbd-484765be5550
